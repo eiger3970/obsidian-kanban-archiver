@@ -1,7 +1,7 @@
 {
   "id": "kanban-archiver",
   "name": "Kanban Archiver",
-  "version": "1.1.0",
+  "version": "1.0.0",
   "minAppVersion": "1.0.0",
   "description": "Archive completed Kanban cards older than a configurable number of days to a separate archive file. Auto-stamps completion dates so cards are always archivable.",
   "author": "Starsha",

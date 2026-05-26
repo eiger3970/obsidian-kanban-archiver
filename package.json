@@ -1,0 +1,19 @@
+{
+  "name": "obsidian-kanban-archiver",
+  "version": "1.0.0",
+  "description": "Archive completed Kanban cards older than N days",
+  "main": "main.js",
+  "scripts": {
+    "dev": "node esbuild.config.js",
+    "build": "node esbuild.config.js production"
+  },
+  "keywords": ["obsidian", "kanban", "archive"],
+  "author": "kworld",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^22.0.0",
+    "esbuild": "^0.25.0",
+    "obsidian": "latest",
+    "typescript": "^5.0.0"
+  }
+}
